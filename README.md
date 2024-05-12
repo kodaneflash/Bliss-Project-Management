@@ -2,9 +2,9 @@
 <img src="./public/logo.png" width='128' height='128' />
 </p>
 
-### What is Zen?
+### What is Bliss?
 
-Zen is a robust project management tool designed to streamline the process of managing projects, tasks. Built with modern technologies, Zen provides an intuitive and efficient way to organize your work.
+Bliss is a robust project management tool designed to streamline the process of managing projects, tasks. Built with modern technologies, Zen provides an intuitive and efficient way to organize your work.
 
 ## Tech Stack
 
@@ -44,10 +44,6 @@ pnpm run dev
 
 Create a `.env` file similar to [`.env.example`](https://github.com/onurhan1337/zen/blob/master/.env.example). You need to fill them out for the site to work.
 
-## Cloning / Forking
-
-Please review the [license](https://github.com/onurhan1337/my-website/blob/master/LICENSE.txt) and remove all of my personal information (resume, blog posts, images, etc.).
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 

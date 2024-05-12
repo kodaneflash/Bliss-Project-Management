@@ -53,7 +53,7 @@ export default function NavBar() {
                 height={36}
                 className="mr-2 rounded-sm"
               />
-              <p>Zen</p>
+              <p>Bliss</p>
             </Link>
             {session && !isMobile && (
               <nav className="flex flex-row items-center gap-4">
